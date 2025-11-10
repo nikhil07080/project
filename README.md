@@ -94,7 +94,6 @@ AICademia/
 
 ### 👩‍💻 Author
 
-**Kajal Nayak**
-GitHub: [@ohhkajal](https://github.com/ohhkajal)
+**NIKHIL KUMAR**
 
 
